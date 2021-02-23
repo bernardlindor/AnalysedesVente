@@ -1,6 +1,5 @@
 # AnalysedesVente
 Analyse des données de vente utilisant le (NLP)
-Analyse des données de vente
 
 Dans ce projet  nous avons utlisé le (NLP) pour :
 
